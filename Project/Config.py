@@ -1,0 +1,3 @@
+Channel_secret = "745471e1623cc18172a8ced6792415cc"
+Channel_access_token = "mQDbBKxkXKfheiOfCSv+xu4NmwOozl4s5r6w7kFzfRyqmWfJt5tteayGbmrgJ/vNqXk1ZX4cydnMOOcDjz9aeBC8AITC1vHk3P0LZKtDJerDIALnURUvAOLKmkN9YoCGXTgRCEzFSQklCXH3e88BzgdB04t89/1O/w1cDnyilFU="
+Basic_id = "@864jkliy"
